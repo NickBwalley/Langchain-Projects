@@ -18,7 +18,6 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma
 streamlit
-langchain-groq
 fastapi
 uvicorn
 langserve
