@@ -10,6 +10,7 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openai
+langchain-anthropic
 chromadb
 langchain-ollama
 transformers
